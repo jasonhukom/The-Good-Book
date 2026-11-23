@@ -1,5 +1,3 @@
-[← Back to Godot](../README.md)
-
 # The Good Book
 
 > **A 2D pixel-art prototype in Godot 4.4**: a spinning pixel earth, a small animated character, and a big *HELLO WORLD!* label in a pixel font.
